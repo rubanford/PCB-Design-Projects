@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [hex_inverter.PrjPcb]
+   Generated File[hex_inverter-RoundHoles.TXT]
+   Generated File[hex_inverter-SlotHoles.TXT]
+   Generated File[hex_inverter.DRL]
+   Generated File[hex_inverter.LDP]
+   Generated File[hex_inverter.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 3:35:02 PM On 9/25/2025

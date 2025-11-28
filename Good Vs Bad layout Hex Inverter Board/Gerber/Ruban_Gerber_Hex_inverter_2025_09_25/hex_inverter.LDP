@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\CU-Boulder\FALL-2025\ECEN-5730\PCB-PROJECTS\HEX_INVERTER\HEX_INVERTER\555TIMER_ASTABLE (9-21-2025 3-33-39 PM)\hex_inverter.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=hex_inverter-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=hex_inverter-slotholes.txt|DrillLayers=gtl,gbl

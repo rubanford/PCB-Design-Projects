@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: hex_inverter.PcbDoc   9/25/2025  3:35:02 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : hex_inverter-RoundHoles.TXT
+ASCII SlotHoles File : hex_inverter-SlotHoles.TXT
+EIA File   : hex_inverter.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      14mil (0.356mm)                                           Round             14        PTH        8.71inch (221.32mm)
+T2      39mil (1mm)                                               Slot              1         PTH        0.06inch (1.50mm)
+T3      40mil (1.016mm)                                           Round             44        PTH        7.57inch (192.25mm)
+T4      40mil (1.02mm)                                            Round             8         PTH        2.54inch (64.40mm)
+T5      43mil (1.1mm)                                             Round             6         PTH        0.70inch (17.78mm)
+T6      47mil (1.2mm)                                             Slot              2         PTH        0.62inch (15.86mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              75
+
+Total Processing Time (hh:mm:ss) : 00:00:00
