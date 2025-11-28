@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\CU-Boulder\FALL-2025\ECEN-5730\PCB-PROJECTS\555TIMER_ASTABLE\555TIMER_ASTABLE\555TIMER-PCB-REF2.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=555timer-pcb-ref2-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=555timer-pcb-ref2-slotholes.txt|DrillLayers=gtl,gbl

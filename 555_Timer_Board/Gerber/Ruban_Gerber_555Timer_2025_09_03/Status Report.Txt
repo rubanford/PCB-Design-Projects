@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [555TIMER_ASTABLE.PrjPcb]
+   Generated File[555TIMER-PCB-REF2-RoundHoles.TXT]
+   Generated File[555TIMER-PCB-REF2-SlotHoles.TXT]
+   Generated File[555TIMER-PCB-REF2.DRL]
+   Generated File[555TIMER-PCB-REF2.LDP]
+   Generated File[555TIMER-PCB-REF2.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 1:05:33 PM On 9/3/2025
