@@ -1,0 +1,26 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Instrument_droid.PcbDoc   11/13/2025  2:55:54 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Layer1 to Layer4
+ASCII RoundHoles File : Instrument_droid-RoundHoles.TXT
+ASCII SlotHoles File : Instrument_droid-SlotHoles.TXT
+EIA File   : Instrument_droid.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      14mil (0.356mm)                                           Round             66        PTH        15.93inch (404.50mm)
+T2      16mil (0.406mm)                                           Round             23        PTH        10.19inch (258.72mm)
+T3      32mil (0.8mm)                                             Round             5         PTH        0.31inch (7.85mm)
+T4      32mil (0.8mm)                                             Slot              4         PTH        1.51inch (38.36mm)
+T5      35mil (0.9mm)                                             Round             2         PTH        0.26inch (6.50mm)
+T6      39mil (1mm)                                               Round             2         PTH        0.14inch (3.50mm)
+T7      39mil (1mm)                                               Slot              2         PTH        3.51inch (89.05mm)
+T8      40mil (1.016mm)                                           Round             60        PTH        16.07inch (408.09mm)
+T9      40mil (1.02mm)                                            Round             6         PTH        1.61inch (40.90mm)
+T10     43mil (1.1mm)                                             Round             15        PTH        5.67inch (143.91mm)
+T11     47mil (1.2mm)                                             Slot              4         PTH        4.17inch (105.80mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              189
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,293 @@
+*************************************************************
+FileName = Instrument_droid.GBR
+AutoAperture = True
+*************************************************************
+Generating : Keep-Out Layer
+      File : Instrument_droid.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Instrument_droid.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Layer4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D30
+    D66
+    D67
+    D68
+    D69
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Instrument_droid.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Layer1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Instrument_droid.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Layer4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D32
+    D33
+    D42
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D70
+    D71
+    D72
+    D73
+    D74
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Instrument_droid.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Layer1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Instrument_droid.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D17
+    D75
+    D76
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Instrument_droid.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Layer4
+      File : Instrument_droid.GBL
+
+    Adding Layer      : Layer4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D18
+    D21
+    D30
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Layer3
+      File : Instrument_droid.G2
+
+    Adding Layer      : Layer3
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+*************************************************************
+
+*************************************************************
+Generating : Layer1
+      File : Instrument_droid.GTL
+
+    Adding Layer      : Layer1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D18
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+*************************************************************
+
+*************************************************************
+Generating : Layer2
+      File : Instrument_droid.G1
+
+    Adding Layer      : Layer2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : Instrument_droid.GM
+
+
+Used DCodes :
+    D77
+*************************************************************
+
